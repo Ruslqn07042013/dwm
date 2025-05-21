@@ -8,4 +8,5 @@ sudo make clean install
 rm -rf $HOME/.xinitrc
 touch $HOME/.xinitrc
 echo "$HOME/dwm/run.sh" >> $HOME/.xinitrc
-
+sudo cp $HOME/dwm/run.sh /bin/rundwm
+sudo cp $HOME/dwm/dwm.desktop /usr/share/xsessions/dwm.desktop
