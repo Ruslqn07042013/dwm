@@ -1,5 +1,5 @@
 #!/usr/bin/bash
-setxkbmap us,ru -option grp:alt_space_toggle                                                                                                ─╯
+setxkbmap us,ru -option grp:win_space_toggle                                                                                                ─╯
 picom -b --config $HOME/dwm/picom.conf
 feh --bg-scale $HOME/wallpapers/wallpaper.jpg
 slstatus &
