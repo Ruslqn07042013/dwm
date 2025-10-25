@@ -1,3 +1,3 @@
 # dwm
-This is my dwm 
-Start install.sh to install 
+This is my dwm.
+Start install.sh to install.-+
